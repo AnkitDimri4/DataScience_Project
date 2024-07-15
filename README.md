@@ -37,9 +37,9 @@ predict(x[0], w1, w2)  # Image is of letter A
 ## Visualizations
 
 ### Accuracy over Epochs
-![Accuracy Plot](https://github.com/user-attachments/assets/b909b3bd-d890-4be5-be2b-98e33d653e0a)
+![Accuracy Plot](https://github.com/user-attachments/assets/57920e45-5a5c-444d-825b-7e8b0cfb0c36)
 
 ### Loss over Epochs
-![Loss Plot](https://github.com/user-attachments/assets/8f25ff4b-d0c2-4114-b4b7-868637da4ca0)
+![Loss Plot](https://github.com/user-attachments/assets/6e8cb53b-790b-46be-9478-ea28b0ea96c1)
 
 ---
