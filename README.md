@@ -1,5 +1,6 @@
 # DataScience_Project
  The repository contains projects related to data science.
+
 ---
 # Neural Network for Image Recognition of Letters A, B, and C
 This project demonstrates a simple neural network trained to recognize images of letters A, B, and C using Python and NumPy.
