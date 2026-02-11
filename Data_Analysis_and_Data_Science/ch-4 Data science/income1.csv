@@ -1,0 +1,16 @@
+"" "Variables", "Data Type", "Description", "Categories of variables"
+"0" "age", "integer", "The age of the individual in years" 
+"1" "JobType", "string", "Working status of person, which sector does he work in", "Federal-gov, Local-gov, Private &5more."
+"2" "EdType", "string", "The level of education", "10th, Matters, Doctorae & 13 more..", --
+"3" "maritalstatus", "string", "The marital status of the individual", " Divorced, Never-Married-AF-spous & 4 more."
+"4" "occupation", "string", "The type of work the individual does", "Armed-Forces,Sales, Tech-support & II more."
+"5" "relationship", "string", "Relationship of individual to his/her household", "Husband, wife, own-child & 3 more"
+"6" "race", "string", "The individual's race", "Black, White race & 3 more"
+"7" "gender", "string", "The individual's gender", "Male, Female" 
+"8" "capitalgain", "integer", " The capital gains of the individual(from selling an asset such asastock or bond for more than the original purchase price)" 
+"9" "capitalloss", "integer", "The capital losses of the individual (from selling an asset such asastock or bond for less than the original purchase price)" 
+"10" "hoursperweek", "integer", "The number of hours the individual works per week" 
+"11" "Nativecountry", "string", "The native country of the individual", "United-States, combodia, canada, & 39 other"
+"12" "Salstat", "string", "the outcome variables indicating whether a person's salary status", "less than or equal to 50k, greater than 50,000,"
+
+
